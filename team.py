@@ -1,5 +1,5 @@
 def greet():
-    print("Hello team!")
+    print("Welcome to the project team!")
 
 def farewell():
-    print("Goodbye team!")
+    print("See you next time team!")
